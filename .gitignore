@@ -43,5 +43,6 @@ Temporary Items
 .apdisk
 
 # Secrets
-api_key.txt
+alchemy_key.txt
+twitter_key.txt
 node_modules
